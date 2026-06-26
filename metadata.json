@@ -1,0 +1,6 @@
+{
+  "name": "ГидроМониторинг Енисея",
+  "description": "Интерактивная карта гидрологического мониторинга Енисейского бассейна в Красноярском крае с реальными подложками OpenStreetMap и GEBCO, симуляцией сбросов Красноярской ГЭС и ледовой обстановки",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
